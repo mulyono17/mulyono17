@@ -9,7 +9,7 @@
 </div>
 <p align='center'> 
    
-   <img src="[https://raw.githubusercontent.com/mulyono17/mulyono17/refs/heads/main/images/glitch_effect.gif]"/>
+   <img src="https://raw.githubusercontent.com/mulyono17/mulyono17/refs/heads/main/images/glitch_effect.gif"/>
 </p>
 
 
