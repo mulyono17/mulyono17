@@ -1,5 +1,5 @@
 
-<h1 align='center' style="color: red;">꧁༆•❤☬աɛʟƈօʍɛ!!☬❤•༆꧂</h1>
+<h1 align='center' style="color: red;">꧁•❤☬աɛʟƈօʍɛ!!☬❤•꧂</h1>
 <div align="center">
    
    **Fullstack Developer | AI & ML| Gen AI | Mobile Dev** <br> <br>
