@@ -9,7 +9,7 @@
 </div>
 <p align='center'> 
    
-   <img src="[https://github.com/Alvalens/Alvalens/assets/109880628/47a90027-6911-40a2-ac4a-501d9cd3eeee](https://raw.githubusercontent.com/mulyono17/mulyono17/refs/heads/main/images/glitch_effect.gif)"/>
+   <img src="[https://raw.githubusercontent.com/mulyono17/mulyono17/refs/heads/main/images/glitch_effect.gif]"/>
 </p>
 
 
